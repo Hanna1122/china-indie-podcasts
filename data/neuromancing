@@ -1,0 +1,18 @@
+{ 
+  "name": "神经漫游 Neuromancing",
+  "description": "神经漫游是科普组织神经现实旗下节目,意在漫游神经与认知科学之领域，揭示认知表象与内里之趣味，由此连接业余与大众之智慧。",
+  "author": "神经现实",
+  "color": "#00FFFF",
+  "logo": "https://files.fireside.fm/file/fireside-uploads/images/b/b81f95d5-64eb-44d8-bf9c-2aca90deefb1/YEXdyR4h.png",
+  "url": "https://neuromancing.fireside.fm/",
+  "feed": "https://feeds.fireside.fm/neuromancing/rss",
+  "apple": "https://podcasts.apple.com/us/podcast/%E7%A5%9E%E7%BB%8F%E6%BC%AB%E6%B8%B8-neuromancing/id1484107605",
+  "google": "",
+  "spotify": "https://open.spotify.com/show/1Ya8rAqwYNNdybDpf0JJXe?si=bPpz5mNNQGihAXfsZCAqCw",
+  "overcast": "https://overcast.fm/itunes1053786200/anyway-fm",
+  "pcast": null,
+  "castro": "https://castro.fm/podcast/66de5250-a1e8-402f-8cd3-65b59dae8af0",
+  "breaker": null,
+  "typlog": false,
+  "blocked": true
+  }
